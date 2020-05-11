@@ -127,9 +127,6 @@ while Elapsed_Time < totaltime:
     position = int(round(target_time/timebtw, 0))
     target = waypoints[position, :]
     Elapsed_Time = Elapsed_Time = time.time() - Start_Time
-    # DO NOT UNCOMMENT THE PRINT OR IT PRINT SEVERAL THOUSAND LINES
-    # IF YOU WANT PROOF THAT THIS WORKS THEN CHANGE TOTALTIME
-    # IN THE WHILE STATEMENT TO '3' THEN TEST
     print(target)
 
 
