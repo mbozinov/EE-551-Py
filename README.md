@@ -1,5 +1,4 @@
 # EE-551 - Engineering Python
-# Engineering Python
 
 INSTRUCTIONS TO RUN THE PROGRAM
 
